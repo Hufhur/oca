@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b05f4406-2a38-41c7-96be-dfccc8d85bcd" name="TransIp" url="http://149.210.218.106">
+        <fileTransfer host="149.210.218.106" port="21" rootFolder="/home/mike/devel/" password="dffadfc5dfc6dfc6dfcfdfdadfcfdfc6" username="mike">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
